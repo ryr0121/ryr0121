@@ -8,14 +8,14 @@
         src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:ryr0121@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="[https://hazel-acapella-21a.notion.site/Portfolio-of-Chowon-Kim-c3b3a2127ee84776bebd3c397bef687a](https://hazel-acapella-21a.notion.site/Portfolio-of-Chowon-Kim-c3b3a2127ee84776bebd3c397bef687a)">
+<a href="https://hazel-acapella-21a.notion.site/Portfolio-of-Chowon-Kim-c3b3a2127ee84776bebd3c397bef687a">
     <img 
-        src="[https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4](https://hazel-acapella-21a.notion.site/Portfolio-of-Chowon-Kim-c3b3a2127ee84776bebd3c397bef687a)"
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blog.naver.com/sicon123">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://blog.naver.com/sicon123"
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Naver&link=https://blog.naver.com/sicon123"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
 👩‍🎓 Collage : MYONGJI UNIV.<br>
