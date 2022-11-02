@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-   <img src="https://img.shields.io/badge/iOS-7F52FF?style=flat&logo=apple&logoColor=white">
+   <img src="https://img.shields.io/badge/Swift-7F52FF?style=flat&logo=apple&logoColor=white">
   </div>
   <div align=center> 
    <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">
