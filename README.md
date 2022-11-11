@@ -20,7 +20,7 @@
 </a></div>
 👩‍🎓 Collage : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
-  🌱 I'm studying to be a Front-end or Back-end Developer. 🌱 <br>
+  🌱 I'm studying to be a iOS Developer. 🌱 <br>
   <br>
 
 <div align=center><h3>💻 Current Learning 💻</h3>
