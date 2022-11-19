@@ -1,4 +1,4 @@
-<div><h3>🍀  안녕하세요! 초니입니다 🍀</h3></div>
+<div><h2>🍀 초니입니다! 🍀</h2></div>
 <div align = right> <a href="https://www.instagram.com/iamgrassdow/">
     <img 
         src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://www.instagram.com/iamgrassdow/"
