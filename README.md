@@ -13,9 +13,9 @@
         src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://blog.naver.com/sicon123">
+<a href="https://dev-choni.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Naver&link=https://blog.naver.com/sicon123"
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://dev-choni.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
 👩‍🎓 Collage : MYONGJI UNIV.<br>
