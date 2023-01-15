@@ -18,17 +18,15 @@
         src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://dev-choni.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
-👩‍🎓 Collage : MYONGJI UNIV.<br>
-  💻 Major : Convergence Software Engineering<br>
-  🌱 I'm studying to be a iOS Developer. 🌱 <br>
+👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br>
+  💻 <b>Major</b> : Convergence Software Engineering<br>
+  🌱 I'm studying to be a <b>iOS Developer</b>. 🌱 <br>
   <br>
   
-  
-  [![ryr0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryr0121&theme=nightowl&ount_private=true)](https://github.com/ryr0121/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoriday)](https://solved.ac/seoriday/)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryr0121&layout=compact&theme=nightowl)](https://github.com/ryr0121/ryr0121)
-<br>
+  <br>
+  [![ryr0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryr0121&theme=nightowl&ount_private=true)](https://github.com/ryr0121/github-readme-stats)
 
   <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerlo127&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
