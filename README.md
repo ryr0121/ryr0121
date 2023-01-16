@@ -24,6 +24,7 @@
   <br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoriday)](https://solved.ac/seoriday/)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryr0121&layout=compact&theme=nightowl)](https://github.com/ryr0121/ryr0121)
   <br>
   [![ryr0121's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryr0121&theme=nightowl&ount_private=true)](https://github.com/ryr0121/github-readme-stats)
