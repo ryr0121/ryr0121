@@ -1,5 +1,5 @@
 <div><h2>🍀 초니입니다! 🍀</h2></div>
-<div align = right> <a href="https://www.instagram.com/dev_choni/">
+<div align = right> <a href="https://www.instagram.com/choniiiworld/">
     <img 
         src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://www.instagram.com/choniiiworld/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
