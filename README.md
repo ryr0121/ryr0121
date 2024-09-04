@@ -18,9 +18,9 @@
         src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://dev-choni.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
-👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br>
-  💻 <b>Major</b> : Convergence Software Engineering<br>
-  🌱 I'm studying to be a <b>iOS Developer</b>. 🌱 <br>
+<!-- 👩‍🎓 <b>Collage</b> : MYONGJI UNIV.<br> -->
+<!--   💻 <b>Major</b> : Convergence Software Engineering<br> -->
+<!--   🌱 I'm studying to be a <b>iOS Developer</b>. 🌱 <br> -->
   <br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryr0121&layout=compact&theme=nightowl)](https://github.com/ryr0121/ryr0121) 
